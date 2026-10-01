@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm **Tshepang Ramohapi**, a **final-year Software Development student**, aspiring Software Developer, and founder of **TDRDEVS**.
 
@@ -26,12 +26,12 @@ I am currently completing a **Python short course** and building my portfolio th
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
-* 🎓 **Final-Year Software Development Student**
-* 🤖 **AI Basics Certificate**
-* 🐍 **Python Short Course — Currently Completing**
-* 💻 Practical experience through academic and personal software projects
+*  **Final-Year Software Development Student**
+*  **AI Basics Certificate**
+*  **Python Short Course — Currently Completing**
+* Practical experience through academic and personal software projects
 
 ---
 
@@ -83,7 +83,7 @@ I am currently completing a **Python short course** and building my portfolio th
 
 ---
 
-## 🏢 TDRDEVS
+## TDRDEVS
 
 ### Founder & Developer
 
@@ -103,23 +103,23 @@ Some projects are currently **in development**, while others are being refined a
 
 ### Areas I'm working with:
 
-* 🌐 Web Applications
-* 📱 Application Development
-* 🗄️ Database Applications
-* 🔌 REST APIs & API Integration
-* ☕ Java Applications
-* 💜 Kotlin Applications
-* 🟣 C# Applications
-* 🐘 PHP Applications
-* 🟨 JavaScript Applications
-* 🐍 Python Projects
-* 🤖 AI Experiments & Projects
-* 🎓 Academic Software Projects
-* 🏢 TDRDEVS Projects
+*  Web Applications
+* Application Development
+*  Database Applications
+* REST APIs & API Integration
+* Java Applications
+* Kotlin Applications
+* C# Applications
+* PHP Applications
+* JavaScript Applications
+* Python Projects
+* AI Experiments & Projects
+* Academic Software Projects
+*  TDRDEVS Projects
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 ```text
 Python
@@ -141,28 +141,28 @@ I'm particularly focused on strengthening my **Python, backend development, API 
 
 ---
 
-## 💼 What I'm Looking For
+## What I'm Looking For
 
 As I approach the completion of my Software Development studies, I'm interested in opportunities where I can apply my technical knowledge in a professional environment.
 
 I'm interested in:
 
-* 💻 Software Development
-* 🌐 Web Development
-* ⚙️ Backend Development
-* 🔌 API Development & Integration
-* 🗄️ Database Development
-* 📱 Application Development
-* 🤖 Artificial Intelligence
-* 🧑‍💻 Graduate & Junior Developer Opportunities
-* 🤝 Software Development Internships
-* 🚀 Technology Startups & Development Teams
+* Software Development
+* Web Development
+* Backend Development
+* API Development & Integration
+* Database Development
+* Application Development
+* Artificial Intelligence
+* Graduate & Junior Developer Opportunities
+* Software Development Internships
+* Technology Startups & Development Teams
 
 I'm eager to work alongside experienced developers, contribute to real-world projects, learn industry best practices, and continue growing as a software engineer.
 
 ---
 
-## 🎯 My Professional Goal
+##  My Professional Goal
 
 My goal is to grow from a student developer into a professional **Software Developer** capable of designing, developing, testing, maintaining, and deploying reliable software solutions.
 
@@ -172,7 +172,7 @@ At the same time, I plan to continue growing **TDRDEVS** and exploring the oppor
 
 ---
 
-## 📊 My Development Journey
+## My Development Journey
 
 ```text
 Software Development Student
@@ -195,26 +195,26 @@ Software Development Student
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to connecting with:
 
-* 👨‍💻 Developers
-* 🎓 Students
-* 🏢 Companies & Recruiters
-* 🚀 Entrepreneurs
-* 🤖 AI & Technology Enthusiasts
-* 🤝 Potential Collaborators
+*  Developers
+* Students
+* Companies & Recruiters
+* Entrepreneurs
+* AI & Technology Enthusiasts
+* Potential Collaborators
 
 If you're interested in software development, technology, Artificial Intelligence, or collaborating on a project, feel free to connect with me.
 
 ---
 
-## ⚡ Developer Mindset
+## Developer Mindset
 
 > **"Don't just learn technology — use it to solve problems."**
 
-### 🚀 Keep Building. Keep Learning. Keep Innovating.
+###  Keep Building. Keep Learning. Keep Innovating.
 
 **Tshepang Ramohapi**
 **Founder & Developer @ TDRDEVS**
@@ -222,5 +222,5 @@ If you're interested in software development, technology, Artificial Intelligenc
 ---
 
 <p align="center">
-  <b>Thanks for visiting my GitHub profile! ⭐</b>
+  <b>Thanks for visiting my GitHub profile! </b>
 </p>
