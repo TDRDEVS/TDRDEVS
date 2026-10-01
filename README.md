@@ -1,7 +1,7 @@
-# 👋 Good Day, I'm Tshepang Ramohapi
+# Good Day, I'm Tshepang Ramohapi
 
 <p align="center">
-  <img src="picture.jpg" alt="Tshepang Ramohapi" width="180" style="border-radius: 50%;">
+  <img src="picture.jpeg" alt="Tshepang Ramohapi" width="180" style="border-radius: 50%;">
 </p>
 
 <h3 align="center">
