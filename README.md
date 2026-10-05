@@ -289,7 +289,7 @@ Current Focus
     TDRDEVS Website
   </a>
   &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/">
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/tshepang-ramohapi-232aa3255/)">
     LinkedIn
   </a>
 </p>
