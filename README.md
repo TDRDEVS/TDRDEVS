@@ -1,226 +1,360 @@
-# Good Day, I'm Tshepang Ramohapi
+Hey, I'm Tshepang Ramohapi
+<p align="center"> <img src="picture.jpeg" alt="Tshepang Ramohapi" width="180" style="border-radius: 50%;"> </p> <h3 align="center"> Software Developer · Founder @ TDRDEVS · AI & Technology Enthusiast </h3> <p align="center"> <i>Building software. Solving real problems. Learning without limits.</i> </p> <p align="center"> <a href="#-about-me"> <img src="https://img.shields.io/badge/About%20Me-111827?style=for-the-badge" alt="About Me"> </a> <a href="#-technology-stack"> <img src="https://img.shields.io/badge/Tech%20Stack-2563EB?style=for-the-badge" alt="Tech Stack"> </a> <a href="#-projects"> <img src="https://img.shields.io/badge/Projects-7C3AED?style=for-the-badge" alt="Projects"> </a> <a href="#-connect-with-me"> <img src="https://img.shields.io/badge/Connect-059669?style=for-the-badge" alt="Connect"> </a> </p>
+🧑‍💻 About Me
 
-<p align="center">
-  <img src="picture.jpeg" alt="Tshepang Ramohapi" width="180" style="border-radius: 50%;">
-</p>
+I'm Tshepang Ramohapi, a final-year Software Development student, aspiring Software Developer, and founder of TDRDEVS.
 
-<h3 align="center">
-  Software Developer | Founder of TDRDEVS | AI & Technology Enthusiast
-</h3>
+I enjoy turning ideas, challenges, and real-world problems into practical software solutions.
 
-<p align="center">
-  <i>Building software. Solving problems. Learning continuously.</i>
-</p>
+My development journey has exposed me to multiple programming languages, databases, APIs, web technologies, object-oriented programming, and software development principles.
 
----
+I'm currently focused on becoming a stronger backend and software engineer, while expanding my knowledge of Python, APIs, databases, and Artificial Intelligence.
 
-##  About Me
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   🎓 Final-Year Software Development Student                 │
+│   💻 Aspiring Software Developer                             │
+│   🚀 Founder of TDRDEVS                                      │
+│   🤖 AI & Technology Enthusiast                              │
+│   🐍 Currently strengthening my Python skills                │
+│   🔧 Building practical software & experimenting with AI    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 
-I'm **Tshepang Ramohapi**, a **final-year Software Development student**, aspiring Software Developer, and founder of **TDRDEVS**.
+🚀 What I Do
+<table> <tr> <td width="50%">
+💻 Software Development
 
-I have hands-on experience working with multiple programming languages, databases, APIs, web technologies, and object-oriented programming. I enjoy transforming ideas and problems into practical software solutions while continuously improving my technical and problem-solving abilities.
+I build applications while continuously improving my understanding of software architecture, OOP, debugging, testing, and development practices.
 
-My current areas of interest include **software engineering, backend development, API integration, databases, web applications, and Artificial Intelligence**.
+</td> <td width="50%">
+⚙️ Backend Development
 
-I am currently completing a **Python short course** and building my portfolio through academic, personal, and TDRDEVS projects.
+I'm particularly interested in APIs, databases, application logic, integrations, and building reliable backend systems.
 
----
+</td> </tr> <tr> <td width="50%">
+🌐 Web Development
 
-## Education & Certifications
+I work with web technologies to create functional, practical, and user-focused applications.
 
-*  **Final-Year Software Development Student**
-*  **AI Basics Certificate**
-*  **Python Short Course — Currently Completing**
-* Practical experience through academic and personal software projects
+</td> <td width="50%">
+🤖 Artificial Intelligence
 
----
+I'm exploring AI fundamentals and learning how AI can be integrated into real-world software applications.
 
-## 🛠️ Technical Skills
+</td> </tr> </table>
+🛠️ Technology Stack
+💻 Languages
+<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> </p>
+🗄️ Databases
+<p align="left"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> </p>
 
-### 💻 Programming Languages
+Database design
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</p>
+SQL queries
 
-### 🗄️ Databases
+CRUD operations
 
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-</p>
+Database integration
 
-* Database design
-* SQL queries
-* CRUD operations
-* Database integration
-* Data management
+Data management
 
-### 🔧 Software Development
+🔧 Development
+<p align="left"> <img src="https://img.shields.io/badge/OOP-1F2937?style=for-the-badge"> <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge"> <img src="https://img.shields.io/badge/Web%20Development-6366F1?style=for-the-badge"> <img src="https://img.shields.io/badge/Backend-7C3AED?style=for-the-badge"> <img src="https://img.shields.io/badge/Debugging-F97316?style=for-the-badge"> <img src="https://img.shields.io/badge/Problem%20Solving-10B981?style=for-the-badge"> </p>
+🤖 AI & Emerging Technology
 
-* Object-Oriented Programming (OOP)
-* API Integration
-* Web Development
-* Application Development
-* Backend Development
-* Software Design
-* Debugging & Troubleshooting
-* Problem Solving
-* Software Development Lifecycle
+I'm particularly interested in the intersection between software engineering and Artificial Intelligence.
 
-### 🤖 Artificial Intelligence
+Currently exploring
 
-* AI Fundamentals
-* AI concepts and applications
-* AI Basics certified
-* Python for AI development — currently learning
-* Exploring practical applications of AI in software development
+🧠 AI fundamentals
 
----
+🐍 Python for AI development
 
-## TDRDEVS
+🔌 AI API integration
 
-### Founder & Developer
+⚙️ AI-powered applications
 
-**TDRDEVS** is a technology initiative founded by me with a focus on **software development, technology, and practical digital solutions**.
+📊 Data-driven applications
 
-Through TDRDEVS, I aim to develop software that addresses real-world problems while creating opportunities to experiment with new technologies and improve my development skills.
+🔬 Practical AI experimentation
 
-> **Building. Learning. Innovating.**
+🚀 The future of software development with AI
 
----
+My goal isn't simply to learn AI — it's to learn how to build useful software with it.
 
-## 📂 Projects & Development Work
+🚀 TDRDEVS
+<p align="center"> <img src="https://img.shields.io/badge/TDRDEVS-Technology%20%26%20Software-111827?style=for-the-badge"> </p>
+Founder · Developer · Builder
 
-My GitHub represents my development journey and includes academic, personal, and TDRDEVS projects.
+TDRDEVS is my technology initiative focused on software development, experimentation, innovation, and practical digital solutions.
 
-Some projects are currently **in development**, while others are being refined and prepared for release.
+The vision is simple:
 
-### Areas I'm working with:
+                  ┌─────────────────┐
+                  │     TDRDEVS     │
+                  └────────┬────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        💻 Software      🤖 AI       🚀 Innovation
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                  🌍 Real-World Solutions
 
-*  Web Applications
-* Application Development
-*  Database Applications
-* REST APIs & API Integration
-* Java Applications
-* Kotlin Applications
-* C# Applications
-* PHP Applications
-* JavaScript Applications
-* Python Projects
-* AI Experiments & Projects
-* Academic Software Projects
-*  TDRDEVS Projects
 
----
+Through TDRDEVS, I want to create software that solves meaningful problems while continuously experimenting with new technologies.
 
-## Currently Learning
+BUILD → LEARN → IMPROVE → INNOVATE
+📂 Projects
 
-```text
-Python
-   │
-   ▼
-Backend Development
-   │
-   ▼
-API Development & Integration
-   │
-   ▼
-Artificial Intelligence
-   │
-   ▼
-Software Engineering
-```
+My GitHub is a representation of my development journey.
 
-I'm particularly focused on strengthening my **Python, backend development, API integration, and AI** skills.
+It contains a combination of academic projects, personal experiments, software applications, AI experiments, and TDRDEVS projects.
 
----
+Areas I'm building in
+Area	Focus
+🌐 Web	Web applications & interfaces
+⚙️ Backend	Application logic & backend systems
+🔌 APIs	REST APIs & integrations
+🗄️ Databases	SQL, data management & integration
+☕ Java	Application development
+🔷 C#	Application development
+🟣 Kotlin	Application development
+🐘 PHP	Web & backend development
+🟨 JavaScript	Web applications
+🐍 Python	Automation, backend & AI
+🤖 AI	Experiments & intelligent applications
+🚀 TDRDEVS	Independent technology projects
 
-## What I'm Looking For
+🚧 Some projects are actively being developed, while others are being refined for future release.
 
-As I approach the completion of my Software Development studies, I'm interested in opportunities where I can apply my technical knowledge in a professional environment.
+📈 My Development Journey
+                    ┌──────────────────────┐
+                    │ Software Development │
+                    │       Student        │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Multiple Programming │
+                    │      Languages       │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │ Projects & Practical │
+                    │      Experience      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │      TDRDEVS         │
+                    │ Founder & Developer  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   Python + Backend   │
+                    │      + APIs + AI     │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │  Software Developer  │
+                    └──────────────────────┘
+
+📚 Currently Learning
+🐍 Python
+
+Strengthening my Python fundamentals and applying them to practical development.
+
+⚙️ Backend Development
+
+Deepening my understanding of backend architecture, APIs, application logic, and server-side development.
+
+🔌 API Development & Integration
+
+Learning how systems communicate and how APIs can be designed, consumed, and integrated into applications.
+
+🤖 Artificial Intelligence
+
+Exploring how AI can be incorporated into modern software applications.
+
+🏗️ Software Engineering
+
+Continuously improving my understanding of clean code, architecture, maintainability, scalability, testing, and professional development practices.
+
+🎓 Education & Certifications
+
+🎓 Final-Year Software Development Student
+
+🤖 AI Basics Certificate
+
+🐍 Python Short Course — Currently Completing
+
+💻 Practical experience through academic and personal software projects
+
+🎯 2026 Developer Roadmap
+[████████████████████░░]  Python
+[██████████████████░░░░]  Backend Development
+[████████████████░░░░░░]  API Development
+[██████████████░░░░░░░░]  Artificial Intelligence
+[████████████░░░░░░░░░░]  Software Engineering
+[██████████░░░░░░░░░░░░]  Production Projects
+
+My focus
+
+01 → Strengthen Python
+02 → Build stronger backend applications
+03 → Develop & integrate APIs
+04 → Build practical AI projects
+05 → Improve software architecture
+06 → Build production-quality projects
+07 → Grow TDRDEVS
+
+💡 Developer Philosophy
+Don't just learn technology — use it to solve problems.
+
+I believe the best way to learn software development is to build.
+
+Every project is an opportunity to:
+
+Learn something new
+
+Make mistakes
+
+Solve problems
+
+Improve existing skills
+
+Understand how systems work
+
+Build something useful
+
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+IMPROVE
+  ↓
+REPEAT
+
+🎯 What I'm Looking For
+
+As I approach the completion of my Software Development studies, I'm looking for opportunities where I can contribute, learn, and grow within a professional development environment.
+
+I'm particularly interested in:
+
+💻 Software Development
+
+🌐 Web Development
+
+⚙️ Backend Development
+
+🔌 API Development & Integration
+
+🗄️ Database Development
+
+📱 Application Development
+
+🤖 Artificial Intelligence
+
+🎓 Graduate Developer Opportunities
+
+🚀 Junior Developer Opportunities
+
+💼 Software Development Internships
+
+🏢 Technology Startups
+
+🤝 Development Teams
+
+I'm excited to work alongside experienced developers, contribute to real-world systems, learn professional engineering practices, and grow into a well-rounded software engineer.
+
+🌟 Professional Goal
+
+My goal is to become a professional Software Developer capable of designing, developing, testing, deploying, and maintaining reliable software systems.
+
+I want to build software that is:
+
+Functional
+    +
+Maintainable
+    +
+Scalable
+    +
+Secure
+    +
+User-Focused
+    +
+Meaningful
+
+
+At the same time, I want to continue growing TDRDEVS and exploring the possibilities created by software development and Artificial Intelligence.
+
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </p>
+🧩 Beyond the Code
+
+I'm interested in more than simply writing code.
 
 I'm interested in:
 
-* Software Development
-* Web Development
-* Backend Development
-* API Development & Integration
-* Database Development
-* Application Development
-* Artificial Intelligence
-* Graduate & Junior Developer Opportunities
-* Software Development Internships
-* Technology Startups & Development Teams
+💡 Ideas
+    ↓
+🧠 Problem Solving
+    ↓
+🏗️ Engineering
+    ↓
+💻 Software
+    ↓
+🤖 Intelligence
+    ↓
+🌍 Real-World Impact
 
-I'm eager to work alongside experienced developers, contribute to real-world projects, learn industry best practices, and continue growing as a software engineer.
 
----
+The long-term goal is to combine software engineering, entrepreneurship, and AI to create technology that people can actually use.
 
-##  My Professional Goal
-
-My goal is to grow from a student developer into a professional **Software Developer** capable of designing, developing, testing, maintaining, and deploying reliable software solutions.
-
-I want to build solutions that are not only functional, but also **maintainable, scalable, user-focused, and meaningful**.
-
-At the same time, I plan to continue growing **TDRDEVS** and exploring the opportunities created by software development and Artificial Intelligence.
-
----
-
-## My Development Journey
-
-```text
-Software Development Student
-            │
-            ▼
-   Multiple Programming Languages
-            │
-            ▼
-     Projects & Experience
-            │
-            ▼
-       TDRDEVS Founder
-            │
-            ▼
-    Python & AI Development
-            │
-            ▼
-    Professional Software Developer
-```
-
----
-
-## Let's Connect
+🤝 Let's Connect
 
 I'm always open to connecting with:
 
-*  Developers
-* Students
-* Companies & Recruiters
-* Entrepreneurs
-* AI & Technology Enthusiasts
-* Potential Collaborators
+👨‍💻 Developers
 
-If you're interested in software development, technology, Artificial Intelligence, or collaborating on a project, feel free to connect with me.
+🎓 Students
 
----
+🏢 Companies & Recruiters
 
-## Developer Mindset
+🚀 Entrepreneurs
 
-> **"Don't just learn technology — use it to solve problems."**
+🤖 AI Enthusiasts
 
-###  Keep Building. Keep Learning. Keep Innovating.
+💡 Technology Enthusiasts
 
-**Tshepang Ramohapi**
-**Founder & Developer @ TDRDEVS**
+🤝 Potential Collaborators
 
----
+If you're interested in software development, AI, technology, startups, or building something interesting, let's connect.
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! </b>
-</p>
+<p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:YOUR_EMAIL@example.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
+⚡ A Little About My Mindset
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║     BUILD       →       LEARN       →       IMPROVE      ║
+║                                                          ║
+║     CREATE      →       SOLVE       →       INNOVATE     ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+
+
+"The goal isn't to know everything. The goal is to never stop learning."
+
+🚀 Keep Building. Keep Learning. Keep Innovating.
+<p align="center"> <b>Tshepang Ramohapi</b><br> Founder & Developer @ TDRDEVS </p> <p align="center"> <i>Thanks for visiting my GitHub profile! ⭐</i> </p>
